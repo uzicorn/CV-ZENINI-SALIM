@@ -6,6 +6,19 @@
 
 ## EXPERIENCE
 
+**POC MLOps & Kubernetes, Paris, MLOps Engineer**
+Décembre 2025 - 
+
+Code Disponible [ici](https://github.com/uzicorn/zenini_mlops_portfolio/tree/main)
+- Création et configuration d’un cluster Kubernetes (eksctl, Helm)
+  - Déploiement du Cluster Autoscaler, JupyterHub et Argo Workflows.
+- Industrialisation d’un modèle de machine learning
+  - Containerisation du modèle (Docker) et push sur AWS ECR.
+  - Déploiement applicatif via Helm charts custom.
+- Sécurité et automatisation
+  - Gestion des secrets Kubernetes et des permissions IAM (IRSA).
+  - Centralisation des déploiements et opérations via Makefile
+
 **Journal Du Grand Paris, Paris — SI engineer**  
 Septembre 2025 - Novembre 2025 (3 mois)  
 - Audit du système d'information.  
